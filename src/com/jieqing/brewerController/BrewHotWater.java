@@ -1,5 +1,4 @@
 package com.jieqing.brewerController;
-
 /**
  * This class contains status of the switch on brewing
  * Hot Water inside of the Brewer

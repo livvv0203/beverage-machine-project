@@ -1,7 +1,7 @@
 /**
  * Jieqing Liu
- * Boston University CS665 Design Pattern
- * Assignment 1 - Fully Automatic Beverage Vending Machine
+ * Boston University Design Pattern
+ * Fully Automatic Beverage Vending Machine
  */
 package com.jieqing.beverageVendingMachine;
 

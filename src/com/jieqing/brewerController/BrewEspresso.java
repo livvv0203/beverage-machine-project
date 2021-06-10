@@ -10,6 +10,7 @@ public class BrewEspresso implements Brewer {
     private Boolean switchOfEspresso = false;
 
     public void brew() {
+
         // When the selected beverage contains espresso
         switchOfEspresso = true;
         try {

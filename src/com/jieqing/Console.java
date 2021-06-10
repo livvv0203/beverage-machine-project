@@ -31,6 +31,7 @@ public class Console {
 
         // Prompt the user to select a beverage
         Scanner userInput = new Scanner(System.in);
+
         while (true) {
             int product = userInput.nextInt();
 
@@ -84,6 +85,7 @@ public class Console {
         // Calculate Extra Sugar Price
         double sugarPrice = 0.30 * numberOfUnitSugar;
         double beveragePrice = beverageName.getPrice();
+
         System.out.println("\nMission Completed. " + "Your total is $" +
                 beverageName.calculateTotalBeveragePrice(beveragePrice, milkPrice, sugarPrice) + ". " +
                 "Enjoy your beverage!\n");
