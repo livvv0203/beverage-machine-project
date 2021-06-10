@@ -1,2 +1,2 @@
-# beverage-machine-project
- 
+# Simple Beverage Vending Machine
+
